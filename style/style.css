@@ -691,13 +691,4 @@ footer{
     .menu{
         display: none;
     }
-
-    .hero_section{
-        display: flex;
-        flex-direction: column;
-    }
-
-    .hero_card1{
-        margin-left: 0;
-    }
 }
