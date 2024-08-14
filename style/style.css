@@ -685,3 +685,19 @@ footer{
     text-align: center;
     margin-bottom: 35px;
 }
+
+
+@media screen and (max-width: 576px){
+    .menu{
+        display: none;
+    }
+
+    .hero_section{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hero_card1{
+        margin-left: 0;
+    }
+}
